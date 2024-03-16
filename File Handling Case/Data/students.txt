@@ -1,0 +1,11 @@
+name;age;major
+Michael;17;Sistem Informasi
+Richard Sugiharto;20;Computer Science
+Natalie;20;Criminal Justice
+Chloe;20;Film Studies
+John;25;Engineering
+Jack;22;Virtual Reality
+Victoria;24;Augmented Reality
+Layla;23;Artificial Intelligence
+Dylan;25;Information Technology
+Grace;25;Occupational Therapy
